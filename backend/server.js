@@ -8,7 +8,7 @@ const userRoute = require('./routes/userRoute')
 
 //app config
 const app = express()
-const port = 4000
+const port = 3000
 
 //middleware
 app.use(express.json())
